@@ -1,6 +1,6 @@
 - 👋 Olá, meu nome é João Santos
-- 👀 Estou interessado em SEO, HTML, JS, CSS, PHP e SQL
-- 🌱 Atualmente, estudo sobre desenvolvimento full stack
+- 👀 Estou interessado em SEO e desenvolvimento full stack
+- 🌱 Atualmente, sou Analista de SEO numa agência de marketing de performance
 - 💞️ Quero desenvolver minhas habilidades enquanto elaboro alguns projetos, ponho conhecimentos em prática
 - 📫 Entre em contato comigo pelo WhatsApp, no número (11) 91188-1971
 
