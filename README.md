@@ -1,6 +1,6 @@
 - 👋 Olá, meu nome é João Santos
 - 👀 Estou interessado em SEO e desenvolvimento full stack
-- 🌱 Atualmente, sou Analista de Desenvolvimento de Sistemas numa agência de marketing de performance
+- 🌱 Atualmente, sou Analista de SEO numa agência de marketing de performance
 - 💞️ Quero desenvolver minhas habilidades enquanto elaboro alguns projetos, pondo conhecimentos em prática
 
 <!---
