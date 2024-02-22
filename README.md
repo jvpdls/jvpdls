@@ -1,4 +1,4 @@
-# Web Developer | Full Stack Developer
+# SEO Specialist & Web Developer
 
 I'm a dedicated professional with a strong inclination toward technical aspects of website optimization and development. My expertise spans from server maintenance to CDN configuration. Furthermore, I have a solid background in SEO.
 
