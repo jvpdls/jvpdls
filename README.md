@@ -8,7 +8,7 @@ Let's connect and collaborate on improving the digital landscape!
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jvpdls)](https://github.com/jvpdls)
 
-## What you'll find here
+## 🔎 Examples of what you'll find here
 ### WordPress Development
 - [Security Headers Solution](https://github.com/jvpdls/wp-security-headers)
 - [Simple Schema Plugin](https://github.com/jvpdls/simple-schema-for-wp)
@@ -16,5 +16,3 @@ Let's connect and collaborate on improving the digital landscape!
 ### Browser Extensions
 - [USD to BRL Converter](https://github.com/jvpdls/usd-to-brl-converter)
 - [Stylesheet Links Extractor](https://github.com/jvpdls/stylesheet-links-extractor)
-
-⚠️ Section in progress
