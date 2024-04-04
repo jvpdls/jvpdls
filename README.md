@@ -14,7 +14,7 @@ Let's connect and collaborate on improving the digital landscape!
 - [Simple Schema Plugin](https://github.com/jvpdls/simple-schema-for-wp)
 
 ### Browser Extensions
-- [USD to BRL Converter](https://github.com/jvpdls/usd-to-brl)
+- [USD to BRL Converter](https://github.com/jvpdls/usd-to-brl-converter)
 - [Stylesheet Links Extractor](https://github.com/jvpdls/stylesheet-links-extractor)
 
 ⚠️ Section in progress
