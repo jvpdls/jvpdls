@@ -14,7 +14,7 @@ Let's connect and collaborate on improving the digital landscape!
 - [Node.js Timestamp Microservice](https://github.com/jvpdls/timestamp-microservice)
 - [Next.js Blog Solution](https://github.com/jvpdls/next-js-blog)
 - [React Quote Machine](https://github.com/jvpdls/random-quote-machine)
-- Joke Generator API (todo)
+- [React Credit Card Details Form](https://github.com/jvpdls/card-details-form)
 
 ### PHP
 - [Pico CMS Site](https://github.com/jvpdls/password-utils)
