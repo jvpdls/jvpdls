@@ -9,10 +9,20 @@ Let's connect and collaborate on improving the digital landscape!
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jvpdls)](https://github.com/jvpdls)
 
 ## 🔎 Examples of what you'll find here
-### WordPress Development
-- [Security Headers Solution](https://github.com/jvpdls/wp-security-headers)
-- [Simple Schema Plugin](https://github.com/jvpdls/simple-schema-for-wp)
+
+### JS
+- [Node.js Timestamp Microservice](https://github.com/jvpdls/timestamp-microservice)
+- [Next.js Blog Solution](https://github.com/jvpdls/next-js-blog)
+- [React Quote Machine](https://github.com/jvpdls/random-quote-machine)
+- Joke Generator API (todo)
+
+### PHP
+- [Pico CMS Site](https://github.com/jvpdls/password-utils)
+- [Security Headers Solution for WP](https://github.com/jvpdls/wp-security-headers)
+- [Simple Schema Plugin for WP](https://github.com/jvpdls/simple-schema-for-wp)
+- [URL Shortener API](https://github.com/jvpdls/url-shortener-api)
 
 ### Browser Extensions
 - [USD to BRL Converter](https://github.com/jvpdls/usd-to-brl-converter)
 - [Stylesheet Links Extractor](https://github.com/jvpdls/stylesheet-links-extractor)
+
