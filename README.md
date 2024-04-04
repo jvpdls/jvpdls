@@ -16,3 +16,5 @@ Let's connect and collaborate on improving the digital landscape!
 ### Browser Extensions
 - [USD to BRL Converter](https://github.com/jvpdls/usd-to-brl)
 - [Stylesheet Links Extractor](https://github.com/jvpdls/stylesheet-links-extractor)
+
+⚠️ Section in progress
