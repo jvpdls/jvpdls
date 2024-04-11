@@ -12,7 +12,6 @@ Let's connect and collaborate on improving the digital landscape!
 
 ### JS
 - [Node.js Timestamp Microservice](https://github.com/jvpdls/timestamp-microservice)
-- [Next.js Blog Solution](https://github.com/jvpdls/next-js-blog)
 - [React Quote Machine](https://github.com/jvpdls/random-quote-machine)
 - [React Credit Card Details Form](https://github.com/jvpdls/card-details-form)
 
