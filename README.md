@@ -11,15 +11,16 @@ Let's connect and collaborate on improving the digital landscape!
 ## 🔎 Examples of what you'll find here
 
 ### JS
-- [Node.js Timestamp Microservice](https://github.com/jvpdls/timestamp-microservice)
-- [Next.js + Socket.io Chat Application](https://github.com/jvpdls/chat-app)
-- [React Quote Machine](https://github.com/jvpdls/random-quote-machine)
-- [React Credit Card Details Form](https://github.com/jvpdls/card-details-form)
+- [**Node.js** Timestamp Microservice](https://github.com/jvpdls/timestamp-microservice)
+- [**Node.js** Request Header Parser Microservice](https://github.com/jvpdls/request-header-parser-ms)
+- [**Next.js** + Socket.io Chat Application](https://github.com/jvpdls/chat-app)
+- [**React** Quote Machine](https://github.com/jvpdls/random-quote-machine)
+- [**React** Credit Card Details Form](https://github.com/jvpdls/card-details-form)
 
 ### PHP
-- [Pico CMS Site](https://github.com/jvpdls/password-utils)
-- [Security Headers Solution for WP](https://github.com/jvpdls/wp-security-headers)
-- [Simple Schema Plugin for WP](https://github.com/jvpdls/simple-schema-for-wp)
+- [**Pico CMS** Site](https://github.com/jvpdls/password-utils)
+- [Security Headers Solution for **WP**](https://github.com/jvpdls/wp-security-headers)
+- [Simple Schema Plugin for **WP**](https://github.com/jvpdls/simple-schema-for-wp)
 - [URL Shortener API](https://github.com/jvpdls/url-shortener-api)
 
 ### Browser Extensions
