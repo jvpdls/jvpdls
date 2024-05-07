@@ -23,7 +23,7 @@ Let's connect and collaborate on improving the digital landscape!
 
 
 
-## 🔎 Examples of what you'll find here
+## 🔎 What you'll find here
 
 ### JS
 - [Node.js Timestamp Microservice](https://github.com/jvpdls/timestamp-microservice)
