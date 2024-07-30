@@ -1,4 +1,4 @@
-# SEO Specialist
+# Passionate about Development and SEO
 
 I'm a dedicated professional with a strong inclination toward technical aspects of website optimization and development. I have a solid background in SEO.
 
