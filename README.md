@@ -6,3 +6,5 @@ I've had the opportunity to work on projects of various sizes, both within and o
 
 Let's connect and collaborate on improving the digital landscape!
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvpdls)](https://github.com/jvpdls/github-readme-stats)
+
