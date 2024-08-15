@@ -9,6 +9,7 @@ I've had the opportunity to work on projects of various sizes, both within and o
 ## Example projects 🛠️
 
 ### Microservices
+- [URL Shortener](https://github.com/jvpdls/url-shortener-ms)
 - [Request Header Parser](https://github.com/jvpdls/request-header-parser-ms)
 - [Timestamp MS](https://github.com/jvpdls/timestamp-microservice)
 
