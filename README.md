@@ -19,6 +19,7 @@ I've had the opportunity to work on projects of various sizes, both within and o
 - [Stylesheet links extractor](https://github.com/jvpdls/stylesheet-links-extractor)
 
 ### Other
+- [Lorem Ipsum Generator](https://github.com/jvpdls/lorem-ipsum-generator)
 - [WP Security Headers](https://github.com/jvpdls/wp-security-headers)
 - [React Random Quote Machine](https://github.com/jvpdls/random-quote-machine)
 
