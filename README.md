@@ -22,6 +22,8 @@ I've had the opportunity to work on projects of various sizes, both within and o
 - [Lorem Ipsum Generator](https://github.com/jvpdls/lorem-ipsum-generator)
 - [WP Security Headers](https://github.com/jvpdls/wp-security-headers)
 - [React Random Quote Machine](https://github.com/jvpdls/random-quote-machine)
+- [PHP | Ad Insertion Boilerplate](https://github.com/jvpdls/php-ad-insertion)
+- [Vanilla JS | Ad Insertion Boilerplate](https://github.com/jvpdls/vanilla-js-ad-insertion)
 
 <hr/>
 
