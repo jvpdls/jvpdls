@@ -9,6 +9,7 @@ I've had the opportunity to work on projects of various sizes, both within and o
 ## Example projects 🛠️
 
 ### Rest APIs & Microservices
+- [Customer Loans API](https://github.com/jvpdls/customer-loans-challenge)
 - [Natural Products API](https://github.com/jvpdls/natural-products-api/)
 - [File Metadata Analyser](https://github.com/jvpdls/file-metadata-ms.git)
 - [URL Shortener](https://github.com/jvpdls/url-shortener-ms)
