@@ -1,9 +1,13 @@
-# Passionate about Development and SEO
+# Technical SEO & Web Development
 
-I'm a dedicated professional with a strong inclination toward technical aspects of website optimization and development. I have a solid background in SEO.
+I'm a Technical SEO specialist and web developer focused on building fast, crawlable, and search-friendly websites.
 
-I've had the opportunity to work on projects of various sizes, both within and outside of Brazil, always aiming to optimize the performance of different web pages.
+My experience combines SEO strategy, technical optimization, web performance, structured data, analytics, and development. I've worked on projects of different sizes in Brazil and internationally, helping businesses improve their organic visibility and website experience.
+
+You can explore my work, articles, and SEO tools at:
+
+🌐 [joaosantos.tech](https://joaosantos.tech)
 
 <hr/>
 
-Let's connect and collaborate on improving the digital landscape!
+I'm always interested in building useful tools, solving technical SEO problems, and collaborating on projects that create measurable organic growth.
